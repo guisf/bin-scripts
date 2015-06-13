@@ -1,7 +1,11 @@
 #!/usr/bin/python
 # by guisf
 
-"""Set monitors to use in X environment."""
+"""
+Set monitors to use in X environment.
+The names are according to my system, this needs to be checked and
+changed accordingly.
+"""
 
 import subprocess, shlex
 
